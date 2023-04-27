@@ -1,0 +1,19 @@
+img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    float:left;
+    margin-left:5px;
+}
+img.achieved{
+    border: 3px solid green;
+}
+img.blocked{
+    filter:grayscale(100%);
+}
+img.available{
+    border: 3px solid white;
+}
+body{
+    background-color:aquamarine;
+}
